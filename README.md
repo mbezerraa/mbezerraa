@@ -7,7 +7,7 @@ I am a third-year computer sciencist student at Federal University of ABC, passi
 - Backend Software Engineer.
 - 1.5+ years of experience (Python, PostgreSQL and Web Development)
 
-  #### Tech Stack
+#### Tech Stack
 - Python, Java, SQL, HTML, CSS and Javascript.
 
 #### What I'm Up To
