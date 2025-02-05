@@ -8,7 +8,7 @@ I am a third-year computer science student at Federal University of ABC, passion
 - 1.5+ years of experience (Python, PostgreSQL and Web Development)
 
 ### 💻 Tech Stack
-- Python, Java, SQL, HTML, CSS and Javascript.
+- Java, Python, PostgreSQL, HTML, CSS and Javascript.
 
 ### 🚀 What I'm Up To
 
