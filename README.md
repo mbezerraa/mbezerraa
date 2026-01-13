@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Murilo!
 
-I am a third-year computer science student at Federal University of ABC, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a computer science student at Federal University of ABC, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 - Backend Software Engineer.
 - 1.5+ years of experience (Python, PostgreSQL and Web Development)
